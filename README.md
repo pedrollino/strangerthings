@@ -1,4 +1,4 @@
-# strangerthings
+# Stranger Things
 Implementação de um jogo usando matriz.
 Contém os seguintes requisitos:
 1 - Cenário da escola com Eleven e o processo de abertura do portal.
